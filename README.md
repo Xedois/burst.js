@@ -6,5 +6,11 @@ Using burst() to create a custom output!
 ```
 burst("color: green; background-color:black;", "Hello!");
 ```
+or
+```
+var css = "color: green; background-color:black;";
+var string = "Hello!";
+burst(css, string);
+```
 Output:
 
