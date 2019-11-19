@@ -13,4 +13,4 @@ var string = "Hello!";
 burst(css, string);
 ```
 Output:
-<span style="color: green; background-color:black;"> Some green text </span>
+
